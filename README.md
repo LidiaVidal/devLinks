@@ -22,7 +22,8 @@ O layout foi projetado para ser responsivo e se adaptar tanto a telas de desktop
 
 #### Mobile
 
-![preview-mobile](./assets/preview-mobile.png)
+![preview-mobile](./assets/preview-mobile.jpg)
+![preview-mobile](./assets/preview-mobile-light.jpg)
 
 ## ✨ Funcionalidades
 
@@ -63,13 +64,8 @@ Este é um projeto de estudo, mas contribuições são bem-vindas! Se você tive
 4.  Envie as suas alterações: `git push origin my-feature`
 5.  Abra um **Pull Request**.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 Feito com ❤️ por **Lídia Vidal**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lídiavidal-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lidiavidal)
